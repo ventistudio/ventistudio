@@ -2,8 +2,6 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8ypj1r826xxl4d9ukyvl2gkmx" alt="Data Card for Spotify">
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&redirect=true)
-
 ## 🌐 Mes réseaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BupfZHSBbC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ventiopastudien) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HikariUmaishi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ventiopastudien) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ventistudio) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HikariUmaishi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8AGAgpYe9p9GG3NXbjbSkg) 
 
@@ -29,3 +27,5 @@
 
 ## 💰 Vous pouvez m’aider en faisant un don
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ventistudio) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ventiopastudienfr) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ventistudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ventistudio)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&redirect=true)
