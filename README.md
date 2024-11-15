@@ -29,3 +29,5 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ventistudio) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ventiopastudienfr) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ventistudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ventistudio)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=8ypj1r826xxl4d9ukyvl2gkmx&redirect=true)
+
+![](https://ventistudio.fr/staff/p/hikariumaishi)<br/>
